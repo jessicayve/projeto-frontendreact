@@ -1,1 +1,1 @@
-Link do Surge: http://labcommerce-cosmictravel.surge.sh/
+Link do Surge: cosmic-travel.surge.sh
